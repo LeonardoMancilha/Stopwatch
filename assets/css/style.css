@@ -60,24 +60,3 @@ button:hover {
 .pausado {
     color: #ff0000;
 }
-
-footer {
-    width: 100%;
-    background: #212121;
-    text-align: center;
-    color: #fff;
-    position: absolute;
-    bottom: 0;
-}
-
-footer span {
-    font-weight: 700;
-    color: #52baff;
-}
-
-footer .text {
-    color: #F9F9F9;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.313rem;
-}
