@@ -13,13 +13,14 @@
 </h4>
 
 <p align="center">
- <a href="#Descrição do projeto">Description</a> •
+ <a href="#sobre-projeto">Description</a> •
  <a href="#-funcionalidades">Functionalities</a> •
  <a href="#-tecnologias">Tecnologies</a> • 
  <a href="#-tecnologias">Access</a> • 
  <a href="#user-content--licença">License</a>
 </p>
 
+ <a name="sobre-projetos" aria-label="sessão sobre"></a>
 ## 💻 Descrição do projeto / Description of the project
 
 Portuguese: Neste projeto, criei um site sobre um cronômetro onde busco aplicar meus conhecimentos em JavaScript Dates e criei um curso online de JavaScript na Udemy que fiz. <br> <br>
