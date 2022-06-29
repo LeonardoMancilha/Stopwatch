@@ -13,7 +13,7 @@
 </h4>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Description</a> •
+ <a href="#Descrição do projeto">Description</a> •
  <a href="#-funcionalidades">Functionalities</a> •
  <a href="#-tecnologias">Tecnologies</a> • 
  <a href="#-tecnologias">Access</a> • 
