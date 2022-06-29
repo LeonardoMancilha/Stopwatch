@@ -20,6 +20,16 @@
  <a href="#user-content--licença">License</a>
 </p>
 
+- [Descrição do projeto](#descrição-do-projeto)
+
+- [Funcionalidades](#funcionalidades)
+
+- [Tecnologias](#tecnologias)
+
+- [Acesso](#acesso-ao-projeto)
+
+- [Licença](#desenvolvedores)
+
 ## 💻 Descrição do projeto / Description of the project
 
 Portuguese: Neste projeto, criei um site sobre um cronômetro onde busco aplicar meus conhecimentos em JavaScript Dates e criei um curso online de JavaScript na Udemy que fiz. <br> <br>
