@@ -12,6 +12,7 @@
  ✅ Concluído 🚀 ✅
 </h4>
 
+<!--
 <p align="center">
  <a href="#-sobre-o-projeto">Description</a> •
  <a href="#-funcionalidades">Functionalities</a> •
@@ -19,16 +20,7 @@
  <a href="#-acesso">Access</a> • 
  <a href="#user-content--licença">License</a>
 </p>
-
-- [Descrição do projeto](#descrição-do-projeto)
-
-- [Funcionalidades](#funcionalidades)
-
-- [Tecnologias](#tecnologias)
-
-- [Acesso](#acesso-ao-projeto)
-
-- [Licença](#desenvolvedores)
+-->
 
 ## 💻 Descrição do projeto / Description of the project
 
