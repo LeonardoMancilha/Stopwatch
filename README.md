@@ -24,8 +24,9 @@
 
 ## 💻 Descrição do projeto / Description of the project
 
-Portuguese: Neste projeto, criei um site sobre um cronômetro onde busco aplicar meus conhecimentos em JavaScript Dates e criei um curso online de JavaScript na Udemy que fiz. <br> <br>
-English: In this project, I created a website about a stopwatch where I seek to apply my skills in JavaScript Dates and I have created an online course on Udemy of JavaScript that I have done.
+<h2>Portuguese</h2> Neste projeto, criei um site sobre um cronômetro onde busco aplicar meus conhecimentos em JavaScript Dates e criei um curso online de JavaScript na Udemy que fiz. <br>
+
+<h2>English</h2> In this project, I created a website about a stopwatch where I seek to apply my skills in JavaScript Dates and I have created an online course on Udemy of JavaScript that I have done.
 
 ---
 
