@@ -1,5 +1,5 @@
-<h1 align="center"> StopWatch </h1>
-<img src="https://user-images.githubusercontent.com/74615811/176546877-09ebab20-6a72-4105-b19c-df44c0c39232.png">
+<h1 align="center">StopWatch</h1>
+<img src="https://user-images.githubusercontent.com/74615811/176546877-09ebab20-6a72-4105-b19c-df44c0c39232.png" alt="Imagem do timer">
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/31ddbceac85190c41164841d133e4056da4d4ce57a1a3a8c7cbf40bff1cf71ed/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f64726f70626f782f64726f70626f782d73646b2d6a617661">
@@ -66,7 +66,7 @@ English: Clearing timing.
 ## 📁 Acesso ao projeto / Access the project
 
 Portuguese: Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/LeonardoMancilha/Stopwatch/find/main). <br>
-English: You can access the project files by clicking [aqui](https://github.com/LeonardoMancilha/Stopwatch/find/main).
+English: You can access the project files by clicking [here](https://github.com/LeonardoMancilha/Stopwatch/find/main).
 
 ## 📝 Licença / License
 
